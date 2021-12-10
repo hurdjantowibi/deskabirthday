@@ -1083,8 +1083,8 @@ audio {
 	width: 100px;
 	height: 183px;
 	background-repeat: no-repeat no-repeat;
-	background-size: 100px 183px;
-	margin-left: 140px
+	background-size: 98px 183px;
+	margin-left: 120px;
 }
 .balloons h2 {
 	text-transform: uppercase;
